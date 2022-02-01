@@ -38,6 +38,12 @@
           "customer":"Will",
           "amount":1.50,
           "timestamp":"2020-07-01T12:21:00-05:00"
-       }
+       }, 
+       {
+        "action":"new_order",
+        "customer":"Will",
+        "amount":1.50,
+        "timestamp":"2020-07-01T12:21:00-05:00"
+        }
     ]
  }
