@@ -21,6 +21,6 @@ The response is a PHP Object from the Event Class functions and gets encoded to 
 ```
 
 ## Notes
-Thank You again for giving me the oppurtunity to work on the project! Please reach out to me via email `rraj3107@gmail.com` for any questions and concerns regarding this project.
+Thank You again for giving me the oppurtunity to work on the project! Please reach out to me via email `rishiraj3107@gmail.com` for any questions and concerns regarding this project.
 
-PHP was not the best choice was a project like this but I started it off since I'm currently very hands on with this.
+PHP was not the best choice was a project like this but I started it off since I'm currently very hands on with it.
